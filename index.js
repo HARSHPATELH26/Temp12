@@ -1,4 +1,4 @@
-const name1 = "Harsh";
+const name1 = "Harsh New";
 function sayName()=>{
     console.log(`My name is ${name1}`);
 }
