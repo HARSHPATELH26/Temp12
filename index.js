@@ -13,3 +13,6 @@ function sum(a,b) => a+b;
 for(i=1, i<10, i++){
     console.log("My nunber is "+ i);
 }
+let abc = 24;
+console.log(abc);
+
