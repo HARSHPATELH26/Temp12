@@ -19,3 +19,7 @@ console.log(abc);
 function newFeatAddedA(){
     console.log('This is new feat A');
 }
+
+function newFeatAddedB(){
+    console.log('This is new feat B');
+}
