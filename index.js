@@ -16,3 +16,6 @@ for(i=1, i<10, i++){
 let abc = 24;
 console.log(abc);
 
+function newFeatAddedA(){
+    console.log('This is new feat A');
+}
