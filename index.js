@@ -8,3 +8,6 @@ let b=7;
 
 
 function sum(a,b) => a+b;
+
+let abc = 24;
+console.log(abc);
