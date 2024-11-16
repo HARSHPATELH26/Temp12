@@ -5,3 +5,6 @@ function sayName()=>{
 
 let a=5;
 let b=7;
+
+
+function sum(a,b) => a+b;
