@@ -23,3 +23,7 @@ function newFeatAddedA(){
 function newFeatAddedB(){
     console.log('This is new feat B');
 }
+
+function newFeatAddedC(){
+    console.log('This is new feat C');
+}
