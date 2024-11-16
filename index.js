@@ -8,3 +8,8 @@ let b=7;
 
 
 function sum(a,b) => a+b;
+
+
+for(i=1, i<10, i++){
+    console.log("My nunber is "+ i);
+}
