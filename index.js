@@ -26,4 +26,13 @@ function newFeatAddedB(){
 
 function newFeatAddedC(){
     console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+    console.log('This is new feat C');
+
 }
